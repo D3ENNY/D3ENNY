@@ -1,4 +1,4 @@
-![Header](.github-header-image.png)
+![Header](github-header-image.png)
 
 <h1 align="center">Hi 👋, I'm Denys Raimondi aka D3ENNY04 on the social media</h1>
 <h3 align="center">a IT student from Italy</h3>
