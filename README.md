@@ -3,6 +3,8 @@
 <h1 align="center">Hi 👋, I'm Denys Raimondi aka D3ENNY04 on social media</h1>
 <h3 align="center">a IT student from Italy</h3>
 
+<img align="right" alt="coding gif" width="400" src="https://tenor.com/view/coding-gif-24625099.gif">
+
 - 🌱 I’m currently learning **LARAVEL and REACT/NEXT.JS**
 
 - 💬 Ask me about **Java, web development, Linux**
