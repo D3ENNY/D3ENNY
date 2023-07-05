@@ -1,17 +1,17 @@
 ![Header](github-header-image.png)
 
-<h1 align="center">Hi 👋, I'm Denys Raimondi aka D3ENNY04 on the social media</h1>
+<h1 align="center">Hi 👋, I'm Denys Raimondi aka D3ENNY04 on social media</h1>
 <h3 align="center">a IT student from Italy</h3>
 
 - 🌱 I’m currently learning **LARAVEL and REACT/NEXT.JS**
 
-- 💬 Ask me about **java, web development, linux**
+- 💬 Ask me about **Java, web development, Linux**
 
 - 📫 How to reach me **denysraimondi06@gmail.com**
 
-- ⚡ Fun fact **I'm 19 years old, so I've just taken the high school exam, leaving with __ marks**
+- ⚡ Fun fact **I'm 19 years old, so I've just taken the high school exam**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contact me:</h3>
 <p align="left">
     <a href="https://twitter.com/d3enny04" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="d3enny04" height="30" width="40" />
@@ -38,7 +38,7 @@
         <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/archlinux.svg" alt="linux" width="40" height="40"/>
     </a>
 </p>
-gilbarbara/logos/blob/main/logos/archlinux.svg
+
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
