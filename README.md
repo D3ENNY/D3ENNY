@@ -5,7 +5,7 @@
 
 <img align="right" alt="coding gif" width="400" src="https://tenor.com/view/coding-gif-24625099.gif">
 
-- 🌱 I’m currently learning **LARAVEL and REACT/NEXT.JS**
+- 🌱 I’m currently learning **ANGULAR and REACT/NEXT.JS**
 
 - 💬 Ask me about **Java, web development, Linux**
 
