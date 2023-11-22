@@ -113,6 +113,8 @@
 <br>
 
 <h3 alig="left">My Stats:</h3>
+<img src="https://github-readme-stats.vercel.app/api?username=D3ENNY&show_icons=true&theme=dark"/>
+<hr>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=d3enny&theme=dark" alt="d3enny" />
 
 <br><br>
