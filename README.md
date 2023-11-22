@@ -102,18 +102,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=d3enny&label=Profile%20views&color=0e75b6&style=flat" alt="d3enny" /></p>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=d3enny" alt="d3enny" />
+    <img src="https://github-profile-trophy.vercel.app/?username=d3enny&theme=dark" alt="d3enny" />
 </a>
 
 <br><br>
 
 <h3 align="left"> preferred languages:</h3>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=d3enny&show_icons=true&locale=en&layout=compact" alt="d3enny" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=d3enny&show_icons=true&locale=it&layout=compact&theme=dark" alt="d3enny" />
 
 <br>
 
 <h3 alig="left">My Stats:</h3>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=d3enny&" alt="d3enny" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=d3enny&theme=dark" alt="d3enny" />
 
 <br><br>
 
