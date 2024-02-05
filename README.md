@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **denysraimondi06@gmail.com**
 
-- ⚡ Fun fact **I'm 19 years old, so I've just taken the high school exam**
+- ⚡ Fun fact **I'm 20 years old, so I've just taken the high school exam**
 
 <h3 align="left">Contact me:</h3>
 <p align="left">
