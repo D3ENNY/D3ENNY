@@ -1,17 +1,19 @@
 ![Header](github-header-image.png)
 
 <h1 align="center">Hi 👋, I'm Denys Raimondi aka D3ENNY04 on social media</h1>
-<h3 align="center">a IT student from Italy</h3>
+<h3 align="center">a System Administrator and Developer</h3>
 
 <img align="right" alt="coding gif" width="400" src="https://tenor.com/view/coding-gif-24625099.gif">
 
-- 🌱 I’m currently learning **ANGULAR and REACT/NEXT.JS**
+- 🌱 I’m currently learning ANGULAR and REACT/NEXT.JS and exploring system engineering
 
-- 💬 Ask me about **Java, web development, Linux**
+- 💬 Ask me about **Java/.NET, web development, Linux**
 
 - 📫 How to reach me **denysraimondi06@gmail.com**
 
-- ⚡ Fun fact **I'm 20 years old, so I've just taken the high school exam**
+- ⚡ I love automating everything—if it can be scripted, I’ll script it.
+  
+- >_ I can’t live without dark mode and a good terminal theme.
 
 <h3 align="left">Contact me:</h3>
 <p align="left">
