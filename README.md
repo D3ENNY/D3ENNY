@@ -13,7 +13,7 @@
 
 - ⚡ I love automating everything—if it can be scripted, I’ll script it.
   
-- \>_ I can’t live without dark mode and a good terminal theme.
+- `>_` I can’t live without dark mode and a good terminal theme.
 
 <h3 align="left">Contact me:</h3>
 <p align="left">
